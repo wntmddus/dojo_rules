@@ -8,3 +8,4 @@ Skills:
 * Ruby
 * JQuery
 * Killing history using git rebase
+* new rules
